@@ -6,6 +6,7 @@ import (
 
 func main() {
 	fmt.Println("go-system-programming start.")
+	fmt.Println("==============")
 	fn3()
-	fmt.Println("end.")
+	fmt.Println("\n==============")
 }
